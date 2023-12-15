@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/confetti.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1D/377ERU8WSP3ARJXFW03DJN.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/XCHN6ABSDTTG5V7SYA0154.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NS/DNAHEGIZ0TD63AQCUVQ49J.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/confetti_handler.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/particle/Content/Cube.uasset"
+			]
+		}
+	]
+}
