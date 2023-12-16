@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/ThirdPerson/Blueprints/BP_NPC.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D6/DHMB1XGC1TLFKKEPHPIIY2.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/MyProject4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5F/JP7SOCWHVTFDVCY9V3H421.uasset"
+			]
+		}
+	]
+}

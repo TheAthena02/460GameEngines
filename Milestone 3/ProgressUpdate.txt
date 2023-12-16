@@ -1,0 +1,4 @@
+At this point, I have conceptially created the first level. However, disapointed with the look and feel of the game, I have decided to restart. The game includes movement, AI, combat, and UI elements, as well as a very
+detailed level. I dont encourage you to try to download or run this version, as it is insanely beefy. Included in this folder is a screenshot.
+
+Update: the project was too big to upload.

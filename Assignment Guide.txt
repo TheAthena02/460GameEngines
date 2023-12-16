@@ -1,0 +1,12 @@
+Assignment Guide:
+
+Some of my projects fufill more than one homework assignment. This is either because I worked on them over more than one assignment, and did not duplicate in between nor submit them in between, or the assignment was fufilled by
+something I needed to create for my final project. The following assignments are the same:
+
+Week 3 and Week 5 are the same project. I built apon this project as week 5 was assigned. 
+
+Week 12 is the same as either Milestone 3 or my Final project. Both include combat systems, each a little different from the other.
+
+There is no week 6 assignment. I dont have the time to do it.
+
+The unity assignment for week 2 and 3 got thanos snapped. I cannot find the file but I did present it in class, i think.
